@@ -154,7 +154,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+defaults:
   home:
     heading: "hyeongjin's"
     subheading: "Bigdata, Machine learnig, AI"
